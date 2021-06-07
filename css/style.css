@@ -1,0 +1,21 @@
+
+header { background-color: darkcyan;color: white; text-align: center;}
+header img {height: 100px;}
+
+
+
+
+main { background-color: rgb(13, 65, 114);
+text-align: center;
+padding-top: 0%;}
+ 
+h1 {color : white}
+
+main p{ text-align:center ;
+color: blanchedalmond;
+font-size: 25px;}
+main img {height: 500px;}
+
+body {background-color: rgb(40, 42, 66);}
+
+footer {  color: white; font-size: 25px; text-align: center;}
