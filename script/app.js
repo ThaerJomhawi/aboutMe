@@ -1,4 +1,4 @@
-/*'use strict';
+'use strict';
 
 let userName=prompt('Welcome to my page please enter your Name');
 alert('Welcome again ('+userName+') to my page I will ask you some questions about myself and you will answer by yes or no');
@@ -91,4 +91,3 @@ else{
 
 
 alert(`Thank you so much ${userName} for being my guest , hope you enjoyed. please continue and read the introduction about me in the webpage`);
-*/
