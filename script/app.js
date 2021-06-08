@@ -8,7 +8,7 @@ let myName= prompt('My name is Thaer?');
 if(myName.toLowerCase() ==='yes' || myName.toLowerCase() ==='y')
   {
     alert('well done. yes my name is Thaer');
-  console.log('true');
+  //console.log('true');
   
 } 
  else if(myName.toLowerCase() ==='no' || myName.toLowerCase() ==='n')
@@ -31,7 +31,7 @@ if(unMaj.toLowerCase() ==='yes' || unMaj.toLowerCase() ==='y')
 else if(unMaj.toLowerCase() ==='no' || unMaj.toLowerCase() ==='n')
 {
   alert('thats correct , I studied Chemical Engineering');
-  console.log(' true');
+  //console.log(' true');
   
 }
 else{ alert(' you should answer by yes or no');}
@@ -43,7 +43,7 @@ let favMeal= prompt('My favorite meal is Mansaf?');
 if(favMeal.toLowerCase() ==='yes' || favMeal.toLowerCase() ==='y')
 {
     alert('yes this is true  ');
-    console.log('true');
+    //console.log('true');
     
   } 
 
@@ -59,7 +59,7 @@ if(favMeal.toLowerCase() ==='yes' || favMeal.toLowerCase() ==='y')
   if(favColor.toLowerCase() ==='yes' || favColor.toLowerCase() ==='y')
   {
     alert('thats correct');
-    console.log(' true');
+    //console.log(' true');
     
   } else if(favColor.toLowerCase() ==='no' || favColor.toLowerCase() ==='n')
   {
@@ -77,7 +77,7 @@ else{
   if(favSeries.toLowerCase() ==='yes' || favSeries.toLowerCase() ==='y')
   {
     alert('thats correct, you should watch it ');
-    console.log('true');
+    //console.log('true');
     
 } else if(favSeries.toLowerCase() ==='no' || favSeries.toLowerCase() ==='n')
 {
